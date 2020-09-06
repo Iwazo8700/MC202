@@ -1,0 +1,7 @@
+Tambem e fornecido a imagem pgm da matrix de entrada.
+Se voce quiser vizualizar a sua saida como uma imagem
+e possivel adicionar o header no arquivo de saida.
+Seguindo o formato de cabecalho:
+P2      # Codigo que indica que o arquivo e uma imagem pgm
+192 96  # Dimensoes da imagem <largura> <altura>
+1000    # Maxima intensidade da imagem
